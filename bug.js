@@ -1,0 +1,1 @@
+This error typically occurs when using Expo's `Image` component with a source URI that's improperly formatted or points to an inaccessible resource.  The `Expo.Image` component is quite sensitive to the source URI.  Common issues include incorrect file extensions, typos in the URI, or problems accessing the file path (especially in Android).
